@@ -1,0 +1,121 @@
+.Tracking_box {
+    width: 100%;
+    height: 10px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: lightblue;
+}
+
+#Tracking_bar {
+    width: 0%;
+    height: 10px;
+    background-color: black;
+}
+
+.Login_Box {
+    margin-top: 50px;
+    margin-left: 40%;
+    width: 400px;
+    height: 250px;
+    background-color: aquamarine;
+}
+
+label {
+    position: relative;
+}
+
+.un {
+    top: 50px;
+    left: 50px;
+}
+
+input {
+    position: relative;
+    border-radius: 5px;
+    border: none;
+    padding-left: 5px;
+}
+
+#UserName {
+    top: 50px;
+    left: 130px;
+    height: 25px;
+}
+
+.pa {
+    top: 80px;
+    left: 50px;
+}
+
+#Password {
+    top: 80px;
+    left: 137px;
+    height: 25px;
+}
+
+.cpa {
+    top: 110px;
+    left: 50px;
+}
+
+#CPassword {
+    top: 110px;
+    left: 75px;
+    height: 25px;
+}
+
+#submit {
+    margin-top: 130px;
+    margin-left: 170px;
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.space {
+    width: 50px;
+    background-color: rgba(177, 74, 209, 0.699);
+    height: 1700px;
+    margin-left: 55%;
+    margin-top: 10px;
+}
+
+#submit:hover {
+    padding: 7px;
+}
+
+#submit:active {
+    background-color: black;
+    color: white;
+}
+
+#user_name {
+    top: 50px;
+    left: 130px;
+    height: 25px;
+}
+
+#pass_word {
+    top: 80px;
+    left: 137px;
+    height: 25px;
+}
+
+#check {
+    margin-top: 130px;
+    margin-left: 170px;
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#check:hover {
+    padding: 7px;
+}
